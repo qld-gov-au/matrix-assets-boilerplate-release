@@ -1,2 +1,5 @@
-# matrix-assets-boilerplate-release
-Builds assets used by qld.gov.au and connects to matrix via git bridge
+# Queensland Government Matrix assets - Binary Repo
+
+This repository provides bundled JS as well as compressed JS and CSS for Squiz Matrix gitbridge.
+
+See https://github.com/qld-gov-au/matrix-assets-boilerplate for source repository
