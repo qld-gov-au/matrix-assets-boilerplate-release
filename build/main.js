@@ -1,15 +1,15 @@
 import "./main.css";
 
-function $b4d1c4e71d5d8114$var$testing1() {
+function $49c7c13f3d829c2f$var$testing1() {
     console.info("testing1");
 }
-$b4d1c4e71d5d8114$var$testing1();
+$49c7c13f3d829c2f$var$testing1();
 
 
-function $22ce9bfe323e58bb$var$testing2() {
+function $ee890f929f409a3d$var$testing2() {
     console.info("testing2");
 }
-$22ce9bfe323e58bb$var$testing2();
+$ee890f929f409a3d$var$testing2();
 
 
 
